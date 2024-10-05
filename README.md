@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate software developer and a technolo
 - 🌱 I’m currently learning **AWS** and diving deeper into **Web Development**.
 - 🔭 I’m currently working on personal projects to hone my skills in full-stack web development and cloud deployment.
 - 👯 I’m looking to collaborate on **open-source projects**, especially in the areas of **web development** and **cloud computing**.
-- 🤔 I’m looking for help with **advanced cloud deployment strategies** and **microservices**.
+- 🤔 I’m looking for help with **advanced cloud deployment strategies**.
 - 💬 Ask me about **web development**, **JavaScript**, and **cloud computing**.
 - 📫 How to reach me: You can send me an email at **shreyaspatil1311@gmail.com** or connect with me on [LinkedIn](https://www.linkedin.com/in/shreyas-patil11/).
 - ⚡ Fun fact: I love exploring new technologies and frameworks, and I’m always up for a coding challenge!
