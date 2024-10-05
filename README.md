@@ -7,8 +7,9 @@ Welcome to my GitHub profile! I'm a passionate software developer and a technolo
 - 👯 I’m looking to collaborate on **open-source projects**, especially in the areas of **web development** and **cloud computing**.
 - 🤔 I’m looking for help with **advanced cloud deployment strategies** and **microservices**.
 - 💬 Ask me about **web development**, **JavaScript**, and **cloud computing**.
-- 📫 How to reach me: You can send me an email at **shreyaspatil1311@gmail.com** or connect with me on [LinkedIn]((https://www.linkedin.com/in/shreyas-patil11/)).
+- 📫 How to reach me: You can send me an email at **shreyaspatil1311@gmail.com** or connect with me on [LinkedIn](https://www.linkedin.com/in/shreyas-patil11/).
 - ⚡ Fun fact: I love exploring new technologies and frameworks, and I’m always up for a coding challenge!
+---
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas-Patil-11&layout=compact&theme=dark)
 
@@ -41,5 +42,5 @@ Welcome to my GitHub profile! I'm a passionate software developer and a technolo
 ---
 
 ## 📫 Connect with Me:
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-id/](https://www.linkedin.com/in/shreyas-patil11/))
+- [LinkedIn](https://www.linkedin.com/in/shreyas-patil11/)
 - [Mail](shreyaspatil1311@gmail.com)
