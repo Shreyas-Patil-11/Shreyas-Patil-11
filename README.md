@@ -2,13 +2,12 @@
 
 Welcome to my GitHub profile! I'm a passionate software developer and a technology enthusiast with a love for building web applications, exploring cloud technologies, and solving challenging problems through code.
 
-- 🌱 I’m currently learning **AWS**, **Go**, and diving deeper into **Data Structures and Algorithms (DSA)**.
+- 🌱 I’m currently learning **AWS** and diving deeper into **Web Development**.
 - 🔭 I’m currently working on personal projects to hone my skills in full-stack web development and cloud deployment.
 - 👯 I’m looking to collaborate on **open-source projects**, especially in the areas of **web development** and **cloud computing**.
 - 🤔 I’m looking for help with **advanced cloud deployment strategies** and **microservices**.
-- 💬 Ask me about **web development**, **C++**, **JavaScript**, and **cloud computing**.
-- 📫 How to reach me: You can send me an email at **your-email@example.com** or connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-id/).
-- 😄 Pronouns: He/Him
+- 💬 Ask me about **web development**, **JavaScript**, and **cloud computing**.
+- 📫 How to reach me: You can send me an email at **shreyaspatil1311@gmail.com** or connect with me on [LinkedIn]((https://www.linkedin.com/in/shreyas-patil11/)).
 - ⚡ Fun fact: I love exploring new technologies and frameworks, and I’m always up for a coding challenge!
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas-Patil-11&layout=compact&theme=dark)
@@ -36,18 +35,11 @@ Welcome to my GitHub profile! I'm a passionate software developer and a technolo
 ### ☁️ Cloud:
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
----
-
-## 🛠️ Technical Skills:
-- **OOP (Object-Oriented Programming)**
-- **DSA (Data Structures and Algorithms)**
-
----
 
 ![Shreyas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shreyas-Patil-11&show_icons=true&theme=dark)
 
 ---
 
 ## 📫 Connect with Me:
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-id/)
-- [Twitter](https://twitter.com/your-twitter-handle)
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin-id/](https://www.linkedin.com/in/shreyas-patil11/))
+- [Mail](shreyaspatil1311@gmail.com)
